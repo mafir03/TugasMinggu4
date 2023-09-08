@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TugasMinggu4</string>
+    <string name="pray_to_the_one_and_only_world_eater_clang">Hi, Clang!</string>
+    <string name="buy_airtime">Buy airtime</string>
+    <string name="balance">5,600.00</string>
+    <string name="pay_bill">Pay bill</string>
+    <string name="pay_bill_desc">Zero transactions fees when you play</string>
+    <string name="pay_money">Pay money</string>
+    <string name="pay_money_desc">To wallet, bank, or mobile number</string>
+    <string name="request_money">Request Money</string>
+    <string name="request_money_desc">Request money from Cowry Loans</string>
+    <string name="buy_airtime_desc">Top-up or Send airtime across countries</string>
+</resources>
